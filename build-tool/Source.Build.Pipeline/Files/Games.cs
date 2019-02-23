@@ -1,4 +1,4 @@
-﻿namespace Source.Build.Pipeline
+﻿namespace Source.Build.Pipeline.Files
 {
     public class Games
     {
