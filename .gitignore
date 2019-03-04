@@ -1,0 +1,7 @@
+# ignore VMX files which are just backup files for VMF
+*.vmx
+
+#ignore files generated during compilation of the VMF
+*.bsp
+*.prt
+*.log
